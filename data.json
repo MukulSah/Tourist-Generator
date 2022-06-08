@@ -1,0 +1,327 @@
+[
+    {
+        "url": "https://www.holidify.com/places/dubai/burj-khalifa-sightseeing-10415.html",
+        "name": "Burj Khalifa",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_779374957_20190822125404_20190822125410.jpg",
+        "id": 0
+    },
+
+    {
+        "url": "https://www.holidify.com/pages/dubai-expo-2020-3080.html",
+        "name": "Dubai Expo",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/800px-Dubai_Expo_20211028104930.jpg",
+        "id": 1
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/dubai-aquarium-and-underwater-zoo-sightseeing-1254646.html",
+        "name": "Dubai Aquarium & Underwater Zoo",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_508380913_20190822131953_20190822132026.jpg",
+        "id": 2
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/sightseeing-and-things-to-do.html",
+        "name": "Global Village Dubai",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_780556252_20190822124114_20190822124134.jpg",
+        "id": 3
+    },
+   
+    {
+        "url": "https://www.holidify.com/places/dubai/palm-jumeirah-sightseeing-10417.html",
+        "name": "Palm Jumeirah",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/attr_1419_20190912135913.jpg",
+        "id": 4
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/the-dubai-mall-sightseeing-10418.html",
+        "name": "The Dubai Mall",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_228880075_20190822131717_20190822131816.jpg",
+        "id": 5
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/aquaventure-waterpark-sightseeing-10434.html",
+        "name": "Aquaventure Waterpark",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/attr_1436_20190826140422.jpg",
+        "id": 6
+    },
+
+    {
+        "url": "https://www.holidify.com/pages/skydiving-in-dubai-1852.html",
+        "name": "Skydiving in Dubai",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/skydiving-3016196_960_720_20190718103430.jpg",
+        "id": 7
+    },
+    
+    {
+        "url": "https://www.holidify.com/places/dubai/dubai-marina-waterfront-sightseeing-10433.html",
+        "name": "Dubai Marina",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/attr_1435_20190827123829.jpg",
+        "id": 8
+    },
+    
+    {
+        "url": "https://www.holidify.com/places/dubai/dubai-dolphinarium-sightseeing-10420.html",
+        "name": "Dubai Dolphinarium",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/15898869188_7ccb633a11_o_20190903163312.jpg",
+        "id": 9
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/the-dubai-fountain-sightseeing-10421.html",
+        "name": "Dubai Fountain",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1196820841_20190903122749.jpg",
+        "id": 10
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/sightseeing-and-things-to-do.html",
+        "name": "Dhow Cruise",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/Dhow_Cruise_20190904153813.png",
+        "id": 11
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/bollywood-parks-sightseeing-121779.html",
+        "name": "Bollywood Parks",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1185567334_20190822133141_20190822133147.jpg",
+        "id": 12
+    },
+
+    {
+    "url": "https://www.holidify.com/places/dubai/the-walk-at-jbr-sightseeing-1254989.html",
+    "name": "The Walk at JBR",
+     "img": "https://www.holidify.com/images/cmsuploads/compressed/d1b5fbb43004b139a569c6e3665d1280_20190520184242.jpg",
+    "id": 13
+    },
+
+    {
+    "url": "https://www.holidify.com/places/dubai/ski-dubai-sightseeing-10416.html",
+    "name": "Ski Dubai",
+     "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_584347765_20190822132635_20190822132655.jpg",
+    "id": 14
+    },
+    
+    {
+        "url": "https://www.holidify.com/places/dubai/legoland-dubai-sightseeing-121793.html",
+        "name": "Legoland Dubai",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_698094457_20190822134054_20190822134119.jpg",
+        "id": 15
+    },
+
+    {
+            "url": "https://www.holidify.com/places/dubai/miracle-garden-dubai-sightseeing-10437.html",
+            "name": "Miracle Garden Dubai",
+             "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_783897589_20190822132126_20190822132133.jpg",
+            "id": 16
+    },
+
+    {
+                "url": "https://www.holidify.com/places/dubai/al-bastakiya-sightseeing-1254984.html",
+                "name": "Al Bastakiya",
+                 "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1099072940_20190829103044.jpg",
+                "id": 17
+    }      ,
+      
+     {
+                    "url": "https://www.holidify.com/places/dubai/burj-al-arab-sightseeing-10438.html",
+                    "name": "Burj Al Arab",
+                     "img": "https://www.holidify.com/images/cmsuploads/compressed/15170814732_0c5fc3dcee_b_20190116171707.jpg",
+                    "id": 18
+    }   ,
+                      
+    {
+                        "url": "https://www.holidify.com/places/dubai/burj-al-arab-sightseeing-10438.html",
+                        "name": "Burj Al Arab",
+                         "img": "https://www.holidify.com/images/cmsuploads/compressed/15170814732_0c5fc3dcee_b_20190116171707.jpg",
+                        "id": 19
+     }  ,
+     
+     {
+        "url": "https://www.holidify.com/places/dubai/dubai-creek-sightseeing-121412.html",
+        "name": "Dubai Creek",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/attr_1435_20190827123829.jpg",
+        "id": 20
+    },
+   
+    {
+        "url": "https://www.holidify.com/places/dubai/jumeirah-mosque-sightseeing-10423.html",
+        "name": "Jumeirah Mosque",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/38075542266_88b10fda27_b_20190604114606_20190604115002.jpg",
+        "id": 21
+    },
+    
+    {
+        "url": "https://www.holidify.com/places/dubai/jumeirah-beach-sightseeing-10425.html",
+        "name": "Jumeirah Beach",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/6788597770_f7cd0cc363_b_20190127125700.jpg",
+        "id": 22
+    },
+    
+
+    {
+        "url": "https://www.holidify.com/places/dubai/saeed-al-maktoum-house-sightseeing-121780.html",
+        "name": "Saeed Al Maktoum House",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/Sheikh_Makhtoum_house_courtyard_March_2008f_20190828105718.JPG",
+        "id": 23
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/dubai-opera-sightseeing-121764.html",
+        "name": "Dubai Opera",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/beauty-cityscape-dubai-1375254(1)_20190906153422.jpg",
+        "id": 24
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/dubai-opera-sightseeing-121764.html",
+        "name": "Atlantis the Palm",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/the-palm-962785_960_720_20190929183908.jpg",
+        "id": 25
+    },
+ 
+    {
+        "url": "https://www.holidify.com/places/dubai/img-worlds-of-adventure-sightseeing-121416.html",
+        "name": "IMG Worlds of Adventure",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/41502472994_7cfe601b9c_b_20190127130031.jpg",
+        "id": 26
+    },
+
+    {
+        "url": "https://www.holidify.com/places/dubai/img-worlds-of-adventure-sightseeing-121416.html",
+        "name": "IMG Worlds of Adventure",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/41502472994_7cfe601b9c_b_20190127130031.jpg",
+        "id": 27
+    },
+
+    {
+        "url": " https://www.holidify.com/places/dubai/oli-oli-sightseeing-1254469.html ",
+        "name": " OliOli ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/oli-oli08-770x578_20190321203646.jpg ",
+        "id": 28
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/ras-al-khor-wildlife-sanctuary-sightseeing-122156.html ",
+        "name": "Ras Al Khor Wildlife Sanctuary  ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/800px-Flamingos_at_the_Ras_Al_Khor_Wildlife_Sanctuary,_Dubai_20180711144832.jpg ",
+        "id": 29
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/butterfly-garden-dubai-sightseeing-1255166.html ",
+        "name": "Dubai Butterfly Garden  ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/dbg_image-01_20190726163234.jpg ",
+        "id": 30
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/ras-al-khor-wildlife-sanctuary-sightseeing-122156.html ",
+        "name": " Ras Al Khor Wildlife Sanctuary ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/2013_bungee_1_base_20180711150809.jpg ",
+        "id": 31
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/alserkal-avenue-sightseeing-121766.html ",
+        "name": " Alserkal Avenue",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/akaa-2019-dubai-05_5312_r_20190830152540.jpg ",
+        "id": 32
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/mall-of-the-emirates-dubai-sightseeing-1254719.html ",
+        "name": " Mall of the Emirates ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/Mall_of_the_Emirates_20190414113024.jpg ",
+        "id": 33
+    },
+    {
+        "url": "  https://www.holidify.com/places/dubai/dubai-water-canal--sightseeing-1257598.html",
+        "name": " Dubai Water Canal ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/800px-Dubai_Water_Canal_20190917152620.jpg ",
+        "id": 34
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/wild-wadi-water-park-sightseeing-1257324.html ",
+        "name": " Wild Wadi ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/WildWadi_20170925112323.jpg ",
+        "id": 35
+    },
+    {
+        "url": "  https://www.holidify.com/places/dubai/vr-park-dubai-mall-sightseeing-1257588.html",
+        "name": "VR Park Dubai Mall  ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/41646225824_079fa677c4_b_20190915221521.jpg ",
+        "id": 36
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/laguna-water-park-sightseeing-1257597.html ",
+        "name": "Laguna Water Park  ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/06-the-wave-oz-2_20190917150049.jpg ",
+        "id": 37
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/sightseeing-and-things-to-do.html ",
+        "name": "  Kite Beach",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_749793508_20190905101749.jpg  ",
+        "id": 38
+    },
+    {
+        "url": "  https://www.holidify.com/pages/dubai-shopping-festival-153.html",
+        "name": "  Dubai Shopping Festival",
+         "img": "  https://www.holidify.com/images/cmsuploads/compressed/shutterstock_780556252_20190822124114_20190822124134.jpg",
+        "id": 39
+    },
+    {
+        "url": "https://www.holidify.com/places/dubai/grand-mosque-sightseeing-10424.html",
+        "name": "Grand Mosque, Dubai",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_458786134_20190902154929.jpg ",
+        "id": 40
+    },
+    {
+        "url": "  https://www.holidify.com/places/dubai/madinat-jumeirah-sightseeing-121798.html",
+        "name": "Madinat Jumeirah  ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/shutterstock_382420696_20190822132815_20190822132833.jpg ",
+        "id": 41
+    },
+    {
+        "url": "  https://www.holidify.com/places/dubai/al-qudra-lake-sightseeing-1257196.html",
+        "name": "Al Qudra Lake  ",
+         "img": "  https://www.holidify.com/images/cmsuploads/compressed/32223982677_fa79291582_o_20190813124333.jpg",
+        "id": 42
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/dubai-autodrome-sightseeing-10427.html ",
+        "name": "  Dubai Autodrome",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/shutterstock_69097420_20190822140241_20190822140247.jpg ",
+        "id": 43
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/dubai-spice-souk-sightseeing-121417.html ",
+        "name": " Dubai Spice Souk ",
+         "img": "https://www.holidify.com/images/cmsuploads/compressed/800px-Spice_Souq_Dubai_10_20190830102518.jpg  ",
+        "id": 44
+    },
+    {
+        "url": "  https://www.holidify.com/places/dubai/etihad-museum-sightseeing-121778.html",
+        "name": " Etihad Museum ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1038348136_20190822133614_20190822133619.jpg ",
+        "id": 45
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/the-lost-chambers-aquarium-dubai-sightseeing-1255297.html ",
+        "name": " The Lost Chambers Aquarium ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/shutterstock_646177342_20190830104447.jpg ",
+        "id": 46
+    },
+    {
+        "url": "https://www.holidify.com/places/dubai/ibn-battuta-mall-sightseeing-10422.html  ",
+        "name": " Ibn Battuta Mall ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/shutterstock_378472549_20190822133755_20190822133801.jpg ",
+        "id": 47
+    },
+    {
+        "url": " https://www.holidify.com/places/dubai/dubai-safari-park-sightseeing-1258987.html ",
+        "name": " Dubai Safari Park ",
+         "img": " https://www.holidify.com/images/cmsuploads/compressed/Cover-Image_20200626121838.jpg",
+        "id": 48
+    }
+   
+]
+ 
